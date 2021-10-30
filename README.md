@@ -3,5 +3,6 @@
 
 To compile:
 
-*bash compile.sh
-*excute with "./raysdl"
+bash compile.sh
+
+excute with "./raysdl"
