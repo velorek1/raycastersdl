@@ -5,4 +5,4 @@ To compile:
 
 bash compile.sh
 
-excute with "./raysdl"
+run with ./raysdl
